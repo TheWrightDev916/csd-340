@@ -1,0 +1,98 @@
+/* Style Sheet Anthony Wright Jr. */
+html {
+    
+  background-repeat: no-repeat, repeat;
+  background-color:black;
+  background-size: cover;
+    opacity: 0.85;
+    color:#F5F8FC;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    
+}
+
+#container {
+    margin: 50px 100px 100px 0px;
+}
+p {
+    font-family: 'Quattrocento', Georgia, 'Times New Roman', serif;
+    font-weight: 400;
+    line-height: 1.4em;
+    color:#F5F8FC;
+}
+
+h1, h2 {
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+}
+
+h1 { 
+    font-weight: 700;
+    text-transform: uppercase;
+    word-spacing: .5em;
+    text-align: center;
+    font-size: 3.052em;
+    background-color:#708a8c;
+    color:#F5F8FC;
+    border: 1px solid #D6A800;
+    padding: 10px;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 2.441em;
+    word-spacing: .2em;
+    text-align: left;
+    background-color:#708a8c;
+    color:#F5F8FC;
+    border: 1px solid #D6A800;
+    padding: 10px;
+}
+
+h3 {
+    font-weight: 300;
+    font-size: 2.441em;
+    word-spacing: .2em;
+    text-align: left;
+    background-color:#708a8c;
+    color:#F5F8FC;
+    border: 1px solid #D6A800;
+    padding: 10px;
+}
+h4 {
+    font-weight: 300;
+    font-size: 2.441em;
+    word-spacing: .2em;
+    text-align: left;
+    background-color:#708a8c;
+    color:#F5F8FC;
+    border: 1px solid #D6A800;
+    padding: 10px;
+}
+a {
+    font-size: 1.25em;
+    font-weight: bold;
+    text-decoration: none;
+    color:#708a8c;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color:#F5F8FC;;
+    color:black
+}
+
+a:visited {
+    color:#6a08bb;
+    background-color: #F5F8FC;
+}
+
+.sentence {
+    font-style: italic;
+}
+
+.intro {
+    text-indent: 2em;
+}
